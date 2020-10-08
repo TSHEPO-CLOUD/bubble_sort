@@ -1,10 +1,15 @@
-# bubble_sort
+# Bubble_Sort
 Implementing the bubble sort algorithm using yield and passing a block to a method 
 
 
-# bubble_sort_image
+<!-- # Bubble_Sort_Image
 
-http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
+http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif -->
+
+### 🎬 Demonstration
+
+<a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
+
 
 ## Project Requirements
 
@@ -34,9 +39,9 @@ http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
 
    ``` https://github.com/TSHEPO-CLOUD/bubble_sort.git ```
 
-4. Hit enter.
+4. Enter.
 
-5. Enjoy!
+5. Have a Blast!
 
 👤 **Author1**
 
