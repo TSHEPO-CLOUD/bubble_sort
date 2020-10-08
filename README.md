@@ -2,13 +2,9 @@
 Implementing the bubble sort algorithm using yield and passing a block to a method 
 
 
-<!-- # Bubble_Sort_Image
-
-http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif -->
-
 ### 🎬 Demonstration
 
-<a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
+[Bubble-sort-gif]("http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif")
 
 
 ## Project Requirements
@@ -23,8 +19,11 @@ http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
   > end
   => ["hi", "hey", "hello"
 
+
 ## Built With
  - Ruby Programming Language
+ - Rubocop
+ 
 
 ## Getting Started
 
