@@ -2,7 +2,7 @@
 Implementing the bubble sort algorithm using yield and passing a block to a method 
 
 
-### 🎬 Demonstration
+## Demonstration
 
 [Bubble-sort-gif]("http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif")
 
@@ -23,7 +23,7 @@ Implementing the bubble sort algorithm using yield and passing a block to a meth
 ## Built With
  - Ruby Programming Language
  - Rubocop
- 
+
 
 ## Getting Started
 
