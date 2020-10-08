@@ -4,7 +4,7 @@ Implementing the bubble sort algorithm using yield and passing a block to a meth
 
 # bubble_sort_image
 
-[http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif]
+http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
 
 ## Project Requirements
 
