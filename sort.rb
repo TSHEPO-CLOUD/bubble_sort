@@ -16,3 +16,22 @@ end
 
 num = [20, 5, 8, 9]
 puts bubble_sort(num)
+
+
+# method with yield
+
+def bubble_sort_by(arr)
+    i = arr.length
+    (i - 1).times do
+      (0..(i - 2)).each do |j|
+        find = yield arr[j], arr[j+ 1]
+        arr[j], arr[j + 1] = arr[j + 1], arr[j] if find.positive?
+      end
+    end
+    arr
+  end
+  
+  test = bubble_sort_by(["hi","hello","hey"]) do |left, right|
+    left.length - right.length
+  end
+  puts test
